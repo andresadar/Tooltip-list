@@ -102,7 +102,6 @@ class _Item extends StatelessWidget {
   }
 }
 
-///Hacer un widget en forma de tooltip con painter
 class _TooltipWidget extends StatelessWidget {
   const _TooltipWidget({super.key, required this.index});
 
